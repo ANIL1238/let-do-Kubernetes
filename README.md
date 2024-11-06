@@ -95,9 +95,6 @@ The **Data Plane** manages data traffic coming from the external world and proce
  │ (Pod Manager) │  │ (Networking)  │  │               │
  └───────────────┘  └───────────────┘  └───────────────┘
 
-
-
-This format clearly defines each component and its function within the Kubernetes architecture. You could visualize this architecture further with a diagram or flowchart if needed.
 --- 
 - With Kubernetes, managing containerized applications becomes streamlined and resilient, ready to scale and recover as needed. 
 ---
